@@ -1,4 +1,4 @@
-  ; This is an exapmle program for the use if .blkw
+  ; This is an exapmle program for the use of .blkw
   ; We will get 10 ASCII characters and store them in the mermory set by .BLKW
   ;
   ;
